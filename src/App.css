@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    border: PowderBlue 5px solid;
+    border-radius: 20px;
+    background-color: rosybrown;
+    margin: 5% 30%;
+}
+
+h1{
+    color: whitesmoke;
+}
